@@ -1,0 +1,22 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "ilk proje",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramazanToksoz/PCAT.git"
+  },
+  "author": "Ramazan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramazanToksoz/PCAT/issues"
+  },
+  "homepage": "https://github.com/ramazanToksoz/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
